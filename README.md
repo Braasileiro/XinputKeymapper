@@ -10,7 +10,7 @@ It may be useful to map buttons on a game that does not support control or confi
 The program has no installer, just open the executable "XinputKeymapper.exe" and follow the instructions.
 
 # Usage
-The program runs in the system notification area, click the right button and you have the following options:
+The program runs in the system notification area, click the right button on the icon and you have the following options:
 
 * `About XinputKeymapper`: Information about the program.
 * `TypeSpeed Control`: Control buttons typing mode.
