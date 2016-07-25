@@ -24,3 +24,5 @@ The program runs in the system notification area, click the right button on the 
 * `Exit`: Exit the program.
 
 All configuration items are self explanatory. In TypeSpeed Control move the mouse pointer over the options to read the explanation of them.
+
+NOTE: Do not forget to plug in control before opening the program!
