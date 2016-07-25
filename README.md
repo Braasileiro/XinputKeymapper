@@ -9,6 +9,8 @@ It may be useful to map buttons on a game that does not support control or confi
 # Installing
 The program has no installer, just open the executable "XinputKeymapper.exe" and follow the instructions.
 
+NOTE: Do not forget to plug in control before opening the program!
+
 # Requeriments
 * Windows 7 or higher
 * Microsoft .NET Framework 4.6
@@ -24,5 +26,3 @@ The program runs in the system notification area, click the right button on the 
 * `Exit`: Exit the program.
 
 All configuration items are self explanatory. In TypeSpeed Control move the mouse pointer over the options to read the explanation of them.
-
-NOTE: Do not forget to plug in control before opening the program!
