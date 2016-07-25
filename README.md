@@ -11,6 +11,8 @@ The program has no installer, just open the executable "XinputKeymapper.exe" and
 
 NOTE: Do not forget to plug in control before opening the program!
 
+In case you are running a game, if it is running in administrator mode, the program will also run in administrator mode.
+
 # Requeriments
 * Windows 7 or higher
 * Microsoft .NET Framework 4.6
@@ -24,5 +26,7 @@ The program runs in the system notification area, click the right button on the 
 * `Manual Configuration`: Opens the configuration file for manual editing.
 * `Configuration Wizard`: Reset the setting and re-opens the first run assistant.
 * `Exit`: Exit the program.
+
+
 
 All configuration items are self explanatory. In TypeSpeed Control move the mouse pointer over the options to read the explanation of them.
