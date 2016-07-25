@@ -10,6 +10,7 @@ It may be useful to map buttons on a game that does not support control or confi
 The program has no installer, just open the executable "XinputKeymapper.exe" and follow the instructions.
 
 # Requeriments
+* Windows 7 or higher.
 * Microsoft .NET Framework 4.6
 
 # Usage
